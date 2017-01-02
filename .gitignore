@@ -1,0 +1,4 @@
+__pycache__
+uwsgi_params
+ymblog_uwsgi.ini
+ymblog_nginx.conf
